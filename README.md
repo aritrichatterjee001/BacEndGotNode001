@@ -28,5 +28,5 @@ A production-style full-stack application built with **React, Node.js, MongoDB, 
 ### 🧠 Architecture + Flow
 
 <p align="center">
-  <img src="https://giphy.com/gifs/what-school-astroon-UNQ8B2nvmT5fhP9H5h" width="85%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBqeWdhdDMwaWV6bTljemo3MmE3Zm12a2ZrZDllem4wZHh3Ymg5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UNQ8B2nvmT5fhP9H5h/giphy.gif" width="85%" />
 </p>
